@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">AppCeption</string>
+  <string name="compile_button">Compile</string>
 </resources>
